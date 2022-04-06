@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+.sing {
+  width: 700px;
+  height: 500px;
+  border: 1px solid lawngreen;
+}
+.sing img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
